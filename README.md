@@ -34,9 +34,7 @@
   <a href="https://www.facebook.com/md.tanvirahmeddev"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
   <a href="https://github.com/md-ahmed-tanvir"><img src="https://img.icons8.com/fluent/48/github.png"/></a>
   <a href="https://wa.me/8801882060723"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
-<a href="https://your-resume-link.com">
-  <img src="https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
-</a>
+
 
 
 </p>
